@@ -1,6 +1,5 @@
 import Link from 'next/link'
-import baseUrl from '../helpers/baseUrl'
-
+import baseUrl from '@/helpers/baseUrl'
 const Home = ({products})=>{
 
 
